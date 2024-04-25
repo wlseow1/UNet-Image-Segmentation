@@ -1,0 +1,3 @@
+1) Download dataset from https://www.kaggle.com/datasets/carlolepelaars/camvid with 32 labels.
+
+2) Replace the 32 labels dataset with 12 labels(including void) from https://github.com/lih627/CamVid/tree/main.
